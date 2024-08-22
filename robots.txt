@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://matrapera.github.io/sitemap.html.gz
+Sitemap: https://matrapera.github.io/app/sitemap.html.gz
+Sitemap: https://matrapera.github.io/assets/sitemap.html.gz
+Sitemap: https://matrapera.github.io/css/sitemap.html.gz
+Sitemap: https://matrapera.github.io/includes/sitemap.html.gz
+Sitemap: https://matrapera.github.io/item/sitemap.html.gz
+Sitemap: https://matrapera.github.io/src/sitemap.html.gz
